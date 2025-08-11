@@ -1,0 +1,2 @@
+print("Hello, Binance Testnet!")
+
